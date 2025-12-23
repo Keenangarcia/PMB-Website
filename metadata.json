@@ -1,0 +1,7 @@
+{
+  "name": "Power My Business™",
+  "description": "AI-powered commercial electricity intelligence & procurement for Texas businesses in the ERCOT market.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
